@@ -27,11 +27,5 @@ Buying or selling a pre-owned vehicle requires a clear understanding of fair mar
 4. **Result:** The predicted estimated value is displayed instantly on screen.
 
 ---
-## 🚀 Local Installation & Setup
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/sanasheikh01206-bot/Cars24-used-price-prediction.git](https://github.com/sanasheikh01206-bot/Cars24-used-price-prediction.git)
-   cd Cars24-used-price-prediction
 
 
